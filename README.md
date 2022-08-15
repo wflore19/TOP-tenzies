@@ -1,4 +1,4 @@
-Tenzies Game
+# Tenzies Game
 
 ## Rules
 
