@@ -1,7 +1,5 @@
 # Tenzies Game
 
-[Live URL](https://tenzies-game-olive.vercel.app/)
-
 Roll until all die are the same
 
 ## Description
